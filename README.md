@@ -4,4 +4,4 @@
 ## I have studied:
 - HTML
 - CSS
-- 
+- Javascript
