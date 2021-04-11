@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+html {
+  margin-top: 0px;
+  background-image: url("https://image.freepik.com/free-vector/pastel-oil-painting-canvas-background_53876-93729.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0%;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 0%;
+}
+
+html main div {
+  text-align: center;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+html main article p {
+  text-indent: 20px;
+}
+
+#intro {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#contact {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#profile-pic {
+  border: thick double #6e054ff6;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25rem;
+}
+
+footer {
+  background-color: #6e054ff6;
+  color: aliceblue;
+  padding: 1%;
+}
+
+p {
+  font-size: 23px;
+}
+
+li {
+  font-size: 1.5rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body > div > a {
+  padding: 0px 10px;
+  word-wrap: normal;
+  display: inline-block;
+}
+/* 
+ background, color, font-family, font-size,
+ height, margin, padding, text-align
+
+ Styled links using pseudo-classes
+
+ Comments throughout your HTML and CSS that explain your code
+ */
